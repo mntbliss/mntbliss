@@ -16,8 +16,7 @@
     
   - 🌿 [MintyBar 🍋‍🟩](https://minty.bar)
   - 📫 Contact me: support@bliss.moe
-  - 🌺 Simple Portfolio: [Moe Place](https://bliss.moe)
-  - 🌸 Discord: [MintyBar Community](https://discord.gg/mintybar)
+  - 🌺 [Personal `.moe` place](https://bliss.moe)
   
   </td>
 
@@ -34,5 +33,5 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@boundless-bliss" width="100%">
+  <img src="https://count.getloli.com/get/@mntbliss" width="100%">
 </p>
