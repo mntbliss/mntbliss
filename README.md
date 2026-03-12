@@ -20,7 +20,7 @@
 
    <td>
      
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rqqrq19n3vo641c8ycaorw647&cover_image=true&theme=novatorem&show_offline=false&background_color=6b43db&interchange=false&bar_color=b17cd5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pczl4i3mggvq6aqu8qqio1zzg&cover_image=true&theme=novatorem&show_offline=false&background_color=6b43db&interchange=false&bar_color=b17cd5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
      
   </td> 
   </tr>
